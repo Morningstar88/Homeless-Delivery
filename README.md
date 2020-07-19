@@ -44,13 +44,31 @@ In the video, just ask them if they have anything they need long term. Maybe the
 
 Use the following format for the title of the video {NAME} {LOCATION} {WHAT THEY NEED}
 
-Please check homelessdelivery.surge.sh 
+Example: Steve @Waterloo Station. Needs 5 pairs of socks, 5 bananas and a loaf of bread. 
+
+Once the video is uploaded, it will appear on the web app within 2-3 minutes. 
 
 ### Four: Deliver the goods to the homeless person
 
+When the delivery person sees the name, location and request of the homeless person, they can go and buy the goods needed, and deliver them. It would be helpful if the video gave some exact clues as to the location of the homeless person.
+
 ## FAQ
 
-Why use a web-app?
+### Why use a web-app? Why can't the asker and delivery person communicate by phone, email, or message app?
+
+People need to see something good going on in the world. The news is always telling us how bad we are. Delivering the goods on a public app shows viewers that there are people focused on fixing the world.
+
+### Who will pay?
+
+Later, we hope that experiments like this are funded on StartSomeGood or Patreon. 
+
+### Can I set up a version of this in my local area?
+
+Yes, the source code is free for you tomodify as you like. 
+
+### Who funds the delivery ?
+
+At first, it would have to be a volunteer using 5 pounds of their own money... but if the concept worked... I would hope people could donate on Patreon or StartSomeGood.
 
 
 

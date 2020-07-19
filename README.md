@@ -7,7 +7,7 @@
 #### When I watched the video, I wondered:
 
 - Do we need to wait for Christmas to set up a system like this?
-- DO we need to use Amazon, or can we do it on our own?
+- Do we need to use Amazon, or can we do it on our own?
 
 
 

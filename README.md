@@ -1,2 +1,5 @@
-# white-rose
-An experimental app for helping the homeless
+# Homeless Delivery 
+
+An experimental web-app for helping the homeless. 
+
+

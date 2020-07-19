@@ -22,9 +22,9 @@ The latest version is [here](https://codepen.io/Teeke/live/XWXqdLN). It's not go
 
 ## Help Us Trial This Web-App
 
-If you want to help prove the concept of this app, you will need:
+### If you want to help prove the concept of this app, you will need:
 
-- Two people (an asker and a deliverer)
+- Two people (an ** Asker ** and a deliverer)
 - A Reddit app on a smartphone (we are using Reddit for the prototype as it saves us 30-40 hours of coding time)
 - Patience and goodwill. 
 

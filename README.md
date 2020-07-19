@@ -11,6 +11,7 @@
 - Do we need to wait for Christmas to set up a system like this?
 - Do we need to use Amazon, or can we do it on our own?
 
+<br/><br/><br/>
 
 
 ## Latest Version
@@ -20,7 +21,9 @@ The latest version is [here](https://codepen.io/Teeke/live/XWXqdLN). It's not go
 - The design. 
 - How it looks on mobile. 
 
-## Help Us Trial This Web-App
+<br/><br/><br/>
+
+# Help Us Trial This Web-App
 
 ### If you want to help prove the concept of this app, you will need:
 
@@ -28,7 +31,9 @@ The latest version is [here](https://codepen.io/Teeke/live/XWXqdLN). It's not go
 - A Reddit app on a smartphone (we are using Reddit for the prototype as it saves us 30-40 hours of coding time)
 - Patience and goodwill. 
 
-## How It Works
+<br/><br/><br/>
+
+# How It Works
 
 ### One: Ask a Homeless Person What They Need. 
 
@@ -52,7 +57,13 @@ Once the video is uploaded, it will appear on the web app within 2-3 minutes.
 
 When the delivery person sees the name, location and request of the homeless person, they can go and buy the goods needed, and deliver them. It would be helpful if the video gave some exact clues as to the location of the homeless person.
 
-## FAQ
+### Five: Take a video of the delivery. 
+
+After the goods are delivered, we want to prove that 
+
+<br/><br/><br/>
+
+# FAQ
 
 ### Why use a web-app? Why can't the asker and delivery person communicate by phone, email, or message app?
 
@@ -74,6 +85,7 @@ At first, it would have to be a volunteer using 5 pounds of their own money... b
 
 That's a good idea. We could start with a menu. 
 
+<br/><br/><br/>
 
 ## Open Source Future
 

@@ -59,7 +59,7 @@ When the delivery person sees the name, location and request of the homeless per
 
 ### Five: Take a video of the delivery. 
 
-After the goods are delivered, we want to prove that they arrived. We also want to show that this 
+After the goods are delivered, we want to prove that they arrived. We also want to show that there is some good in the world. And offer a scalable solution for other communities. There's no reason that there couldn't be dozens of branches of this app in a few years. 
 
 <br/><br/><br/>
 

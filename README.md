@@ -13,5 +13,10 @@
 
 # Latest Version
 
+The latest version is [here](https://codepen.io/Teeke/live/XWXqdLN). It's not good enough to show to a wide audience. I need to fix;
+
+- The design. 
+- How it looks on mobile. 
+
 
 

@@ -28,16 +28,33 @@ If you want to help prove the concept of this app, you will need:
 
 ## How It Works
 
-### Step One: Ask a Homeless Person What They Need. 
+### One: Ask a Homeless Person What They Need. 
 
 Like in the video, the asker can approach homeless people, and respectfully ask them if they need anything. It's probably not a good idea to offer money... but socks, shoes, food, water, blankets are all good. A small menu may help. 
 
 Right now, the experiments would need to be self funded. But later, when there are more users, we hope the public will donate to the cause on Patreon or Paypal.  
 
-### Step Two: Take a quick video of the asker and the homeless person, with their permission.
+### Two: Take a quick video of the asker and the homeless person, with their permission.
 
+In the video, just ask them if they have anything they need long term. Maybe they need a place to stay, or they have skills for a job. 
+
+### Three: Upload the video to /r/HomelessDelivery or /r/HomelessDelivery
+
+Use the following format for the title of the video {NAME} {LOCATION} {WHAT THEY NEED}
+
+Please check homelessdelivery.surge.sh 
+
+### Four: Deliver the goods to the homeless person
+
+## FAQ
 
 Why use a web-app?
+
+
+
+## Open Source Future
+
+The code for this web-app is public. 
 
 
 

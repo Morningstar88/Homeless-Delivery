@@ -59,7 +59,7 @@ When the delivery person sees the name, location and request of the homeless per
 
 ### Five: Take a video of the delivery. 
 
-After the goods are delivered, we want to prove that 
+After the goods are delivered, we want to prove that they arrived. We also want to show that this 
 
 <br/><br/><br/>
 

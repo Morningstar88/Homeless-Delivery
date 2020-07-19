@@ -10,4 +10,6 @@
 https://www.reddit.com/r/Enhancement/comments/6yl9tt/any_way_to_get_the_direct_link_to_reddithosted/
 - Ask for testing help on Assistance and GLP.
 - Ask for help on Design critiques. 
+- Share on Open Source and other communities. 
 - Deploy to codepen and home.kalki.cloud
+- Get better thumbnails. 

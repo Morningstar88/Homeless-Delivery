@@ -70,6 +70,9 @@ Yes, the source code is free for you tomodify as you like.
 
 At first, it would have to be a volunteer using 5 pounds of their own money... but if the concept worked... I would hope people could donate on Patreon or StartSomeGood.
 
+### How about the asker finding local businesses who were willing to donate stuff and linking up with the deliverer ?
+
+That's a good idea. We could start with a menu. 
 
 
 ## Open Source Future

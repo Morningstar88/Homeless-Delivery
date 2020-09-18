@@ -13,3 +13,37 @@
  *= require_tree .
  *= require_self
  */
+
+@import "bulma"; 
+
+body {
+font-family: 'Josefin Sans';
+font-weight: 300;
+}
+
+a {
+font-size: 36px;
+color: #0077a2;
+}
+
+a.navbar-item {
+font-size: 20px;
+}
+
+h1.title {
+font-size: 84px;
+font-weight: 200;
+}
+
+div.content {
+color: #121212;
+text-indent: 7px;
+font-size: 28px;
+font-weight: 400;
+}
+
+.instructions {
+color: #121212;
+font-size: 26px;
+text-indent: 15px;
+}

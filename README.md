@@ -13,13 +13,18 @@
 
 <br/><br/><br/>
 
+# We're Currently Building a Ruby on Rails Version. 
 
-## Latest Version
+If you want to see how the app could work, please check out the codepen below. 
 
-The latest version is [here](https://codepen.io/Teeke/live/XWXqdLN). It's not good enough to show to a wide audience. I need to fix;
+
+## Codepen Prototype Using Reddit API
+
+A trial codepen is [here](https://codepen.io/Teeke/live/XWXqdLN). It's not good enough to show to a wide audience. I need to fix;
 
 - The design. 
-- How it looks on mobile. 
+- How it looks on mobile.
+
 
 <br/><br/><br/>
 

@@ -244,7 +244,7 @@ DEPENDENCIES
   bulma-rails (~> 0.9.0)
   byebug
   capybara (>= 2.15)
-  guard (>= 2.16.2)
+  guard
   guard-livereload (~> 2.5.2)
   jbuilder (~> 2.7)
   listen (~> 3.2)
